@@ -1,4 +1,4 @@
-rbs
+RBS
 Api rest de gerenciamento de empregos e cadastro de incidentes
 
 Essa api proporciona um sistema de busca de empregos com login e nivel de acesso de cliente e administrador e cadastro de incidentes.
